@@ -1,0 +1,2 @@
+# Logistic-Regression
+#Logistic regression is a regression model in which the response variable has  #categorical values such as true/false or 0/1.  #Therefore, we can measure the probability of the binary response. #y=1/(1+e^-(b0+b1 x1+b2 x2+⋯)) #In the above equation, y is a response variable, x is the predictor variable,  #and b0 and b1, b2,...bn are the coefficients, which is numeric constants.  #We use the glm() function to create the regression model. #There is the following syntax of the glm() function. #glm(formula, data, family)  
